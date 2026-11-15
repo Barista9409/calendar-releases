@@ -1,12 +1,12 @@
 {
   "latest": {
-    "versionCode": 101,
-    "versionName": "0.1.1",
+    "versionCode": 200,
+    "versionName": "0.2.0",
     "minSdk": 26,
-    "apkUrl": "https://github.com/barista9409/calendar-releases/releases/download/v0.1.1/calendar-0.1.1.apk",
-    "sha256": "6de40fc9c0b8434c5c314ef7c420fdf74770fbc35edb5a24497d75e80e346c35",
-    "releaseNotes": "・予定の色を Google カレンダーと同じ配色に変換\n・背景色に合わせて文字色を自動で切替（明るい色でも読めるように）\n・24時間以上の予定を終日欄に表示\n・週／日ウィジェットの下の余白を解消\n・日ウィジェットの表示時間帯を予定に合わせて調整",
+    "apkUrl": "https://github.com/barista9409/calendar-releases/releases/download/v0.2.0/calendar-0.2.0.apk",
+    "sha256": "21e696a860c020e8b1e31d99dbc28c4804f4b80f64c632914869142778121fbd",
+    "releaseNotes": "・Google 連携（ドロワー「カレンダー管理・Google 連携」から）\n・Google で設定しているカレンダーの名前と色をそのまま表示\n・カレンダーの名前・色の変更、作成・削除\n・共有設定（メールアドレスで追加、権限の変更、解除、一般公開）\n・表示／非表示を Google の設定と連動",
     "mandatory": false,
-    "publishedAt": "2026-11-15T11:56:43+00:00"
+    "publishedAt": "2026-11-15T12:28:14+00:00"
   }
 }
