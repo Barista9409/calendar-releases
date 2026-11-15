@@ -1,12 +1,12 @@
 {
   "latest": {
-    "versionCode": 300,
-    "versionName": "0.3.0",
+    "versionCode": 400,
+    "versionName": "0.4.0",
     "minSdk": 26,
-    "apkUrl": "https://github.com/barista9409/calendar-releases/releases/download/v0.3.0/calendar-0.3.0.apk",
-    "sha256": "c00ee270b1caa037a15edf171430f1b87c42de79229cfe29e111b4c27a09bd64",
-    "releaseNotes": "・添付ファイル：端末のファイルをドライブに保存して予定に添付（予定の詳細から）\n・添付はカレンダーを共有している家族も閲覧可能（自動で権限を付与）\n・添付の表示・削除\n・週／日表示で横スワイプすると 1970 年に飛ぶ不具合を修正",
+    "apkUrl": "https://github.com/barista9409/calendar-releases/releases/download/v0.4.0/calendar-0.4.0.apk",
+    "sha256": "85a6f5bb08a011e045bd0d4bd4643d7609b1066c81ccfb93d32b76a5dfc1a301",
+    "releaseNotes": "・日／週表示：時間軸を固定、月の変わり目を強調（「12月」ラベルと区切り線、タイトル「11月〜12月」）\n・カレンダーと詳細シートの境界を自由に動かせるように\n・ウィジェットを作り直し（区切り線・大きな文字、日は Google と同じ一覧形式）\n・設定：ウィジェットの背景色と透明度、添付ファイルの保存先の選択と移動\n・アカウントの追加・非表示・削除\n・アイコンを新しく",
     "mandatory": false,
-    "publishedAt": "2026-11-15T12:50:25+00:00"
+    "publishedAt": "2026-11-15T21:32:43+00:00"
   }
 }
