@@ -1,12 +1,12 @@
 {
   "latest": {
-    "versionCode": 100,
-    "versionName": "0.1.0",
+    "versionCode": 101,
+    "versionName": "0.1.1",
     "minSdk": 26,
-    "apkUrl": "https://github.com/barista9409/calendar-releases/releases/download/v0.1.0/calendar-0.1.0.apk",
-    "sha256": "20571631573979aad13036d450a26ffc144801f4e6502afbec0701467108d161",
-    "releaseNotes": "・初回リリース\n・日／週／月／予定のワンタッチ切替、月表示の週スクロール\n・下部シートからの予定の作成・編集・削除\n・月／週／日ウィジェット\n・アプリ内アップデート",
+    "apkUrl": "https://github.com/barista9409/calendar-releases/releases/download/v0.1.1/calendar-0.1.1.apk",
+    "sha256": "6de40fc9c0b8434c5c314ef7c420fdf74770fbc35edb5a24497d75e80e346c35",
+    "releaseNotes": "・予定の色を Google カレンダーと同じ配色に変換\n・背景色に合わせて文字色を自動で切替（明るい色でも読めるように）\n・24時間以上の予定を終日欄に表示\n・週／日ウィジェットの下の余白を解消\n・日ウィジェットの表示時間帯を予定に合わせて調整",
     "mandatory": false,
-    "publishedAt": "2026-11-15T11:26:00+00:00"
+    "publishedAt": "2026-11-15T11:56:43+00:00"
   }
 }
