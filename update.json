@@ -1,12 +1,12 @@
 {
   "latest": {
-    "versionCode": 600,
-    "versionName": "0.6.0",
+    "versionCode": 601,
+    "versionName": "0.6.1",
     "minSdk": 26,
-    "apkUrl": "https://github.com/barista9409/calendar-releases/releases/download/v0.6.0/calendar-0.6.0.apk",
-    "sha256": "68e7bd30ab46f94722424eb63c35231bc388e2a096f7ae1b6b416179dc957d9a",
-    "releaseNotes": "・ウィジェット：丸いアイコンボタンと「今日」ボタン、月の文字を大きく\n・繰り返しを Google と同じ仕様に（カスタム・終了日・回数）\n・予定入力にキャンセルボタン\n・添付の保存先を Google ドライブのフォルダから選択・移動\n・添付プレビューを修正（画像の向きも反映）\n・アプリとウィジェットの色・透明度を設定可能に\n・設定にアカウント欄（追加・非表示・削除）\n・週表示：重なる日を広く表示する設定",
+    "apkUrl": "https://github.com/barista9409/calendar-releases/releases/download/v0.6.1/calendar-0.6.1.apk",
+    "sha256": "fbce5962143a1ed37e1f9b2dff46abd101988160f879d87215a9c73ebd3b8925",
+    "releaseNotes": "・添付ファイルに画像・PDF のサムネイルを表示\n・ウィジェット選択画面にプレビュー画像を追加\n・週ウィジェットの文字が引き伸ばされる不具合を修正\n・月ウィジェットが表示されない不具合を修正\n・予定入力の項目を使いやすい順に並べ替え（色は後ろに、タップで一覧）",
     "mandatory": false,
-    "publishedAt": "2026-11-16T11:01:07+00:00"
+    "publishedAt": "2026-11-16T11:35:48+00:00"
   }
 }
