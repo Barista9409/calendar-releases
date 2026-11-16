@@ -1,12 +1,12 @@
 {
   "latest": {
-    "versionCode": 500,
-    "versionName": "0.5.0",
+    "versionCode": 600,
+    "versionName": "0.6.0",
     "minSdk": 26,
-    "apkUrl": "https://github.com/barista9409/calendar-releases/releases/download/v0.5.0/calendar-0.5.0.apk",
-    "sha256": "0a33a620e104e51c74d89ca737be03c77ea41bf15ae23388d9d49c1c8be32f61",
-    "releaseNotes": "・予定の作成・編集を Google カレンダー風の全画面に（繰り返し・ゲスト・予定の色）\n・繰り返し予定の変更・削除（この予定／これ以降／すべて）\n・週／日表示で予定をドラッグして移動・長さ変更\n・シートのどこをスワイプしても境界を移動\n・PDF・画像のプレビュー\n・ウィジェット改善（週の余白解消、月の週スクロール、大きなボタン、予定タップで全画面）\n・検索、予定の通知（設定でオン）、他アプリからの共有で添付\n・予定詳細にゲストと出欠を表示",
+    "apkUrl": "https://github.com/barista9409/calendar-releases/releases/download/v0.6.0/calendar-0.6.0.apk",
+    "sha256": "68e7bd30ab46f94722424eb63c35231bc388e2a096f7ae1b6b416179dc957d9a",
+    "releaseNotes": "・ウィジェット：丸いアイコンボタンと「今日」ボタン、月の文字を大きく\n・繰り返しを Google と同じ仕様に（カスタム・終了日・回数）\n・予定入力にキャンセルボタン\n・添付の保存先を Google ドライブのフォルダから選択・移動\n・添付プレビューを修正（画像の向きも反映）\n・アプリとウィジェットの色・透明度を設定可能に\n・設定にアカウント欄（追加・非表示・削除）\n・週表示：重なる日を広く表示する設定",
     "mandatory": false,
-    "publishedAt": "2026-11-16T10:20:56+00:00"
+    "publishedAt": "2026-11-16T11:01:07+00:00"
   }
 }
