@@ -1,12 +1,12 @@
 {
   "latest": {
-    "versionCode": 603,
-    "versionName": "0.6.3",
+    "versionCode": 604,
+    "versionName": "0.6.4",
     "minSdk": 26,
-    "apkUrl": "https://github.com/barista9409/calendar-releases/releases/download/v0.6.3/calendar-0.6.3.apk",
-    "sha256": "6726d2cf885b10d96156db51e28a768ea5b396d8b9d6bcf724a05ca487bf8a74",
-    "releaseNotes": "・月ウィジェット：週ごとの上下スクロールを復活、広げると1日に表示できる予定が増える、月の初日は「12/1」のように表示\n・ウィジェット上部の［今日］［‹］［›］を中央寄りに配置し、間隔をあけた\n・予定の詳細シートに閉じるボタン（右上の ×）を追加\n・複数日の予定で日付が二重に表示される不具合を修正",
+    "apkUrl": "https://github.com/barista9409/calendar-releases/releases/download/v0.6.4/calendar-0.6.4.apk",
+    "sha256": "54850cdda612d13702a2c665376af133b14b93e42c47c138ae2778636b95e946",
+    "releaseNotes": "・月ウィジェットを作り直し、前後1年分を週ごとに上下スクロールできるように（［今日］［‹］［›］でその月へ移動）\n・ウィジェットの予定の文字の大きさを設定できるように（小さくすると1日に表示できる件数が増える）\n・ウィジェットを長押し→設定（鉛筆アイコン）で、文字の大きさ・背景色・透明度を変更できるように",
     "mandatory": false,
-    "publishedAt": "2026-11-16T13:40:46+00:00"
+    "publishedAt": "2026-11-16T14:07:03+00:00"
   }
 }
