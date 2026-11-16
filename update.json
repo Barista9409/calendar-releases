@@ -1,12 +1,12 @@
 {
   "latest": {
-    "versionCode": 602,
-    "versionName": "0.6.2",
+    "versionCode": 603,
+    "versionName": "0.6.3",
     "minSdk": 26,
-    "apkUrl": "https://github.com/barista9409/calendar-releases/releases/download/v0.6.2/calendar-0.6.2.apk",
-    "sha256": "bcaad415bfc334c730b7a1fa851bd148d143b2c4f3e42f2e8419151d1a6cd3b3",
-    "releaseNotes": "・月ウィジェットを Google カレンダーと同じレイアウトに作り直し（1か月表示、複数日の予定は帯でつながる、入りきらない日は +N）\n・週ウィジェットを廃止（月・日の2種類に）\n・日ウィジェットの見出しを今日の日付に\n・添付の画像・PDF を大きくプレビュー表示\n・予定詳細を整理（繰り返しの詳しい表示、自分が作成者のときは作成者を省略、カレンダー名とアカウントを2行に）",
+    "apkUrl": "https://github.com/barista9409/calendar-releases/releases/download/v0.6.3/calendar-0.6.3.apk",
+    "sha256": "6726d2cf885b10d96156db51e28a768ea5b396d8b9d6bcf724a05ca487bf8a74",
+    "releaseNotes": "・月ウィジェット：週ごとの上下スクロールを復活、広げると1日に表示できる予定が増える、月の初日は「12/1」のように表示\n・ウィジェット上部の［今日］［‹］［›］を中央寄りに配置し、間隔をあけた\n・予定の詳細シートに閉じるボタン（右上の ×）を追加\n・複数日の予定で日付が二重に表示される不具合を修正",
     "mandatory": false,
-    "publishedAt": "2026-11-16T13:25:25+00:00"
+    "publishedAt": "2026-11-16T13:40:46+00:00"
   }
 }
