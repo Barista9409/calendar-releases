@@ -1,12 +1,12 @@
 {
   "latest": {
-    "versionCode": 605,
-    "versionName": "0.6.5",
+    "versionCode": 606,
+    "versionName": "0.6.6",
     "minSdk": 26,
-    "apkUrl": "https://github.com/barista9409/calendar-releases/releases/download/v0.6.5/calendar-0.6.5.apk",
-    "sha256": "4d562415a89d8a83629235721fbbcaa69fa43d00c388848e9eb086dc2687cc64",
-    "releaseNotes": "・月ウィジェットで予定が二重・三重に表示される不具合を修正\n・月ウィジェットで入りきらない日は Google カレンダーと同じ「•••」で表示\n・アプリを更新したあと、ウィジェットを自動で描き直すように（置き直し不要）\n・月ウィジェットの見出し（年月）をタップすると再読み込み\n・アプリの月表示：詳細シートを開いても行の高さが縮まないように固定し、空きがあるのに「+N」になる不具合を修正",
+    "apkUrl": "https://github.com/barista9409/calendar-releases/releases/download/v0.6.6/calendar-0.6.6.apk",
+    "sha256": "22990e2bc246ba027358a3b7369e4b49427ea2d7f0f7382a3dc10c46ad7522e1",
+    "releaseNotes": "・同じ共有カレンダーを複数のアカウントで登録しているとき、予定を開くたびにカレンダー名と予定の色が入れ替わる不具合を修正（表示名と色をアカウントごとに保存）",
     "mandatory": false,
-    "publishedAt": "2026-11-16T14:46:44+00:00"
+    "publishedAt": "2026-11-16T15:05:57+00:00"
   }
 }
