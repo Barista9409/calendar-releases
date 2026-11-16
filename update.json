@@ -1,12 +1,12 @@
 {
   "latest": {
-    "versionCode": 400,
-    "versionName": "0.4.0",
+    "versionCode": 500,
+    "versionName": "0.5.0",
     "minSdk": 26,
-    "apkUrl": "https://github.com/barista9409/calendar-releases/releases/download/v0.4.0/calendar-0.4.0.apk",
-    "sha256": "85a6f5bb08a011e045bd0d4bd4643d7609b1066c81ccfb93d32b76a5dfc1a301",
-    "releaseNotes": "・日／週表示：時間軸を固定、月の変わり目を強調（「12月」ラベルと区切り線、タイトル「11月〜12月」）\n・カレンダーと詳細シートの境界を自由に動かせるように\n・ウィジェットを作り直し（区切り線・大きな文字、日は Google と同じ一覧形式）\n・設定：ウィジェットの背景色と透明度、添付ファイルの保存先の選択と移動\n・アカウントの追加・非表示・削除\n・アイコンを新しく",
+    "apkUrl": "https://github.com/barista9409/calendar-releases/releases/download/v0.5.0/calendar-0.5.0.apk",
+    "sha256": "0a33a620e104e51c74d89ca737be03c77ea41bf15ae23388d9d49c1c8be32f61",
+    "releaseNotes": "・予定の作成・編集を Google カレンダー風の全画面に（繰り返し・ゲスト・予定の色）\n・繰り返し予定の変更・削除（この予定／これ以降／すべて）\n・週／日表示で予定をドラッグして移動・長さ変更\n・シートのどこをスワイプしても境界を移動\n・PDF・画像のプレビュー\n・ウィジェット改善（週の余白解消、月の週スクロール、大きなボタン、予定タップで全画面）\n・検索、予定の通知（設定でオン）、他アプリからの共有で添付\n・予定詳細にゲストと出欠を表示",
     "mandatory": false,
-    "publishedAt": "2026-11-15T21:32:43+00:00"
+    "publishedAt": "2026-11-16T10:20:56+00:00"
   }
 }
