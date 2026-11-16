@@ -1,12 +1,12 @@
 {
   "latest": {
-    "versionCode": 700,
-    "versionName": "0.7.0",
+    "versionCode": 701,
+    "versionName": "0.7.1",
     "minSdk": 26,
-    "apkUrl": "https://github.com/barista9409/calendar-releases/releases/download/v0.7.0/calendar-0.7.0.apk",
-    "sha256": "bb878c1fc2727104200ec533e48e0031771e296b9b3f4068803f39cacdc2168f",
-    "releaseNotes": "・設定画面を作り直し（見た目・予定・ウィジェット・アカウントとアプリに分類）\n・色とテーマ：明るさ（端末に合わせる／ライト／ダーク）、おすすめ各 8 色（名前つき）、選んだ色が分かる表示、壁紙の透け具合、見本\n・黒を選ぶと「標準」扱いになり選択が残らない不具合を修正\n・ウィジェットの見た目を別画面に（長押しの設定と共通）。文字の大きさ、月ウィジェットで 1 日に表示する件数（自動・2〜6件）、背景の色と透け具合\n・通知の種類を選べるように（スマホの設定に合わせる／バイブのみ／アラーム／表示のみ）。マナーモードでバイブしなかった問題を修正、テスト通知ボタン",
+    "apkUrl": "https://github.com/barista9409/calendar-releases/releases/download/v0.7.1/calendar-0.7.1.apk",
+    "sha256": "13fbb6481cd552d04738e1c2e1181ce41004f04a4c4f6b00c5e8815070fe0e42",
+    "releaseNotes": "・日付・時刻の選択ダイアログが見にくい問題を修正（濃い下地に濃い文字が出ていた・下地が透けていた）\n・選んだ日の丸など、色の上の文字を、下地との濃さの差が大きい色で表示するように",
     "mandatory": false,
-    "publishedAt": "2026-11-16T22:36:41+00:00"
+    "publishedAt": "2026-11-16T23:03:52+00:00"
   }
 }
