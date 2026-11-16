@@ -1,12 +1,12 @@
 {
   "latest": {
-    "versionCode": 606,
-    "versionName": "0.6.6",
+    "versionCode": 607,
+    "versionName": "0.6.7",
     "minSdk": 26,
-    "apkUrl": "https://github.com/barista9409/calendar-releases/releases/download/v0.6.6/calendar-0.6.6.apk",
-    "sha256": "22990e2bc246ba027358a3b7369e4b49427ea2d7f0f7382a3dc10c46ad7522e1",
-    "releaseNotes": "・同じ共有カレンダーを複数のアカウントで登録しているとき、予定を開くたびにカレンダー名と予定の色が入れ替わる不具合を修正（表示名と色をアカウントごとに保存）",
+    "apkUrl": "https://github.com/barista9409/calendar-releases/releases/download/v0.6.7/calendar-0.6.7.apk",
+    "sha256": "b4d95cb36d0b5396d30a931c3a429d0ad672581407e412aed50ade79be4de766",
+    "releaseNotes": "・アプリの月表示をウィジェットと同じ見た目に（すべての予定を予定の色で塗りつぶし、何日も続く予定は1本の帯につなげて表示）\n・予定の並べ方をアプリとウィジェットで共通に",
     "mandatory": false,
-    "publishedAt": "2026-11-16T15:05:57+00:00"
+    "publishedAt": "2026-11-16T15:53:31+00:00"
   }
 }
