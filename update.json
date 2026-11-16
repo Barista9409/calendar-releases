@@ -1,12 +1,12 @@
 {
   "latest": {
-    "versionCode": 601,
-    "versionName": "0.6.1",
+    "versionCode": 602,
+    "versionName": "0.6.2",
     "minSdk": 26,
-    "apkUrl": "https://github.com/barista9409/calendar-releases/releases/download/v0.6.1/calendar-0.6.1.apk",
-    "sha256": "fbce5962143a1ed37e1f9b2dff46abd101988160f879d87215a9c73ebd3b8925",
-    "releaseNotes": "・添付ファイルに画像・PDF のサムネイルを表示\n・ウィジェット選択画面にプレビュー画像を追加\n・週ウィジェットの文字が引き伸ばされる不具合を修正\n・月ウィジェットが表示されない不具合を修正\n・予定入力の項目を使いやすい順に並べ替え（色は後ろに、タップで一覧）",
+    "apkUrl": "https://github.com/barista9409/calendar-releases/releases/download/v0.6.2/calendar-0.6.2.apk",
+    "sha256": "bcaad415bfc334c730b7a1fa851bd148d143b2c4f3e42f2e8419151d1a6cd3b3",
+    "releaseNotes": "・月ウィジェットを Google カレンダーと同じレイアウトに作り直し（1か月表示、複数日の予定は帯でつながる、入りきらない日は +N）\n・週ウィジェットを廃止（月・日の2種類に）\n・日ウィジェットの見出しを今日の日付に\n・添付の画像・PDF を大きくプレビュー表示\n・予定詳細を整理（繰り返しの詳しい表示、自分が作成者のときは作成者を省略、カレンダー名とアカウントを2行に）",
     "mandatory": false,
-    "publishedAt": "2026-11-16T11:35:48+00:00"
+    "publishedAt": "2026-11-16T13:25:25+00:00"
   }
 }
