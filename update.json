@@ -1,12 +1,12 @@
 {
   "latest": {
-    "versionCode": 607,
-    "versionName": "0.6.7",
+    "versionCode": 700,
+    "versionName": "0.7.0",
     "minSdk": 26,
-    "apkUrl": "https://github.com/barista9409/calendar-releases/releases/download/v0.6.7/calendar-0.6.7.apk",
-    "sha256": "b4d95cb36d0b5396d30a931c3a429d0ad672581407e412aed50ade79be4de766",
-    "releaseNotes": "・アプリの月表示をウィジェットと同じ見た目に（すべての予定を予定の色で塗りつぶし、何日も続く予定は1本の帯につなげて表示）\n・予定の並べ方をアプリとウィジェットで共通に",
+    "apkUrl": "https://github.com/barista9409/calendar-releases/releases/download/v0.7.0/calendar-0.7.0.apk",
+    "sha256": "bb878c1fc2727104200ec533e48e0031771e296b9b3f4068803f39cacdc2168f",
+    "releaseNotes": "・設定画面を作り直し（見た目・予定・ウィジェット・アカウントとアプリに分類）\n・色とテーマ：明るさ（端末に合わせる／ライト／ダーク）、おすすめ各 8 色（名前つき）、選んだ色が分かる表示、壁紙の透け具合、見本\n・黒を選ぶと「標準」扱いになり選択が残らない不具合を修正\n・ウィジェットの見た目を別画面に（長押しの設定と共通）。文字の大きさ、月ウィジェットで 1 日に表示する件数（自動・2〜6件）、背景の色と透け具合\n・通知の種類を選べるように（スマホの設定に合わせる／バイブのみ／アラーム／表示のみ）。マナーモードでバイブしなかった問題を修正、テスト通知ボタン",
     "mandatory": false,
-    "publishedAt": "2026-11-16T15:53:31+00:00"
+    "publishedAt": "2026-11-16T22:36:41+00:00"
   }
 }
