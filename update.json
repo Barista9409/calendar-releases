@@ -1,12 +1,12 @@
 {
   "latest": {
-    "versionCode": 703,
-    "versionName": "0.7.3",
+    "versionCode": 704,
+    "versionName": "0.7.4",
     "minSdk": 26,
-    "apkUrl": "https://github.com/barista9409/calendar-releases/releases/download/v0.7.3/calendar-0.7.3.apk",
-    "sha256": "107db400251e26eefb597874f9761c3bb954c15dec182355d57f79cc2f971d1b",
-    "releaseNotes": "・通知の［止める］を押してもバイブが止まらない問題を修正\n・バイブや音が鳴る通知には、いつも先頭に［止める］を付けるように\n・「止めるまで鳴らし続ける」は最長 5 分で自動的に止まります",
+    "apkUrl": "https://github.com/barista9409/calendar-releases/releases/download/v0.7.4/calendar-0.7.4.apk",
+    "sha256": "0338d9be95a956bf186781a29a45ed468ae6555330f13b0daeb7f79f7aaf6a98",
+    "releaseNotes": "・おすすめのテーマ 8 種類（スタンダード・北欧ミント・さくら・カフェラテ・ラベンダー・ミッドナイト・フォレスト・ガラス）から選んで、細かく調整できるように\n・メニュー（左から出るメニュー）の背景色を独立して設定できるように\n・今の色の組み合わせを「マイテーマ」として保存\n・「このアプリを共有」を追加（ダウンロード先と簡単な説明をコピー・LINE やメールで送る）",
     "mandatory": false,
-    "publishedAt": "2026-11-17T04:24:06+00:00"
+    "publishedAt": "2026-11-17T05:21:49+00:00"
   }
 }
