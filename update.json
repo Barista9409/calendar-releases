@@ -1,12 +1,12 @@
 {
   "latest": {
-    "versionCode": 705,
-    "versionName": "0.7.5",
+    "versionCode": 706,
+    "versionName": "0.7.6",
     "minSdk": 26,
-    "apkUrl": "https://github.com/barista9409/calendar-releases/releases/download/v0.7.5/calendar-0.7.5.apk",
-    "sha256": "5b87e5822d7d7f67260cc4b734a4a8b1e02cd29d9bf0fd6e600cd6805175c27b",
-    "releaseNotes": "・「このアプリを共有」のダウンロード先を APK の直リンクに（常に最新版が直接ダウンロードされる）\n・月ウィジェット：月の初日に「1 12月」のような目印、祝日を赤く表示、見出しをタップすると今月に戻る\n・初めて開いたときに、予定の通知をどちらで受け取るかを確認\n・ Android 標準のバックアップで、色・ウィジェット・通知などの設定を機種変更時に引き継ぐように",
+    "apkUrl": "https://github.com/barista9409/calendar-releases/releases/download/v0.7.6/calendar-0.7.6.apk",
+    "sha256": "f4a7473cf6640600195ab584fa57da7e98e0df013739ac702fc4ddcb77f28043",
+    "releaseNotes": "・ Google の審査がいらない仕組みに変更（テストユーザーの登録・警告画面・7 日での連携切れがなくなります）\n・添付ファイルは Google ドライブの「カレンダー添付ファイル」フォルダに保存し、予定の説明にリンクを書き込む方式に（リンクを知っている人なら閲覧可）\n・カレンダーの名前・色・共有は「Google カレンダーで設定を開く」ボタンから変更\n・以前 Google カレンダーの添付欄に付けたファイルは、Google カレンダー側にそのまま残ります",
     "mandatory": false,
-    "publishedAt": "2026-11-17T05:36:05+00:00"
+    "publishedAt": "2026-11-17T05:48:51+00:00"
   }
 }
