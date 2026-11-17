@@ -1,12 +1,12 @@
 {
   "latest": {
-    "versionCode": 710,
-    "versionName": "0.7.10",
+    "versionCode": 711,
+    "versionName": "0.7.11",
     "minSdk": 26,
-    "apkUrl": "https://github.com/barista9409/calendar-releases/releases/download/v0.7.10/calendar-0.7.10.apk",
-    "sha256": "e6ad0168a20214d2de10e9344e61030fb07740282294ede505ad19b7e6fbf3c9",
-    "releaseNotes": "・同期がオフのときのボタンを「同期をオンにする」にし、そのアカウントの「アカウントの同期」画面を直接開くように（「Google カレンダー」をオンにするだけ）",
+    "apkUrl": "https://github.com/barista9409/calendar-releases/releases/download/v0.7.11/calendar-0.7.11.apk",
+    "sha256": "4a1be3bd5f33ec9df34c96ccb11008098c5c0514656b4ec72cf7e412193575e2",
+    "releaseNotes": "・実際は同期オンなのに「カレンダー同期がオフ」と赤く警告される問題を修正（アカウントごとの同期は断定せず案内だけにし、赤い警告はスマホ全体の自動同期がオフのときだけ）",
     "mandatory": false,
-    "publishedAt": "2026-11-17T08:23:05+00:00"
+    "publishedAt": "2026-11-17T09:21:53+00:00"
   }
 }
