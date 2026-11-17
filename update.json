@@ -1,12 +1,12 @@
 {
   "latest": {
-    "versionCode": 701,
-    "versionName": "0.7.1",
+    "versionCode": 702,
+    "versionName": "0.7.2",
     "minSdk": 26,
-    "apkUrl": "https://github.com/barista9409/calendar-releases/releases/download/v0.7.1/calendar-0.7.1.apk",
-    "sha256": "13fbb6481cd552d04738e1c2e1181ce41004f04a4c4f6b00c5e8815070fe0e42",
-    "releaseNotes": "・日付・時刻の選択ダイアログが見にくい問題を修正（濃い下地に濃い文字が出ていた・下地が透けていた）\n・選んだ日の丸など、色の上の文字を、下地との濃さの差が大きい色で表示するように",
+    "apkUrl": "https://github.com/barista9409/calendar-releases/releases/download/v0.7.2/calendar-0.7.2.apk",
+    "sha256": "3fd537dc9312201e1b31c430cf3d7f31efdb64ba63376ad9acc7011ec163cbc6",
+    "releaseNotes": "・通知のバイブが鳴らないことがある問題を修正（アプリからアラーム扱いで直接鳴らすように）\n・バイブの長さを選べるように（短い・普通・長い）\n・「止めるまで鳴らし続ける」を追加（通知を消す・開く・［止める］で止まる。最长5分）\n・「バイブのみ」「アラーム」はサイレントのときもバイブで知らせるように",
     "mandatory": false,
-    "publishedAt": "2026-11-16T23:03:52+00:00"
+    "publishedAt": "2026-11-17T03:57:19+00:00"
   }
 }
