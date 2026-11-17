@@ -1,12 +1,12 @@
 {
   "latest": {
-    "versionCode": 709,
-    "versionName": "0.7.9",
+    "versionCode": 710,
+    "versionName": "0.7.10",
     "minSdk": 26,
-    "apkUrl": "https://github.com/barista9409/calendar-releases/releases/download/v0.7.9/calendar-0.7.9.apk",
-    "sha256": "a74ef537b676ccc5d3bd6cabe86b8110b30d2e13f0dedf316e48129ff689c690",
-    "releaseNotes": "・月ウィジェットを新デザインに：見出しは真ん中に「本日：2026年11月17日（火）」（タップで今日へ）と右の［＋］だけ\n・左に月の列を追加（スクロール中も何月か分かる。月が変わる週は青いラベル）\n・曜日と月の文字を大きく太く、偶数月をうっすら塗り分け、月の初日は「12/1」の青いラベル\n・日ウィジェットも見出しを「本日：…」にして真ん中に",
+    "apkUrl": "https://github.com/barista9409/calendar-releases/releases/download/v0.7.10/calendar-0.7.10.apk",
+    "sha256": "e6ad0168a20214d2de10e9344e61030fb07740282294ede505ad19b7e6fbf3c9",
+    "releaseNotes": "・同期がオフのときのボタンを「同期をオンにする」にし、そのアカウントの「アカウントの同期」画面を直接開くように（「Google カレンダー」をオンにするだけ）",
     "mandatory": false,
-    "publishedAt": "2026-11-17T08:11:17+00:00"
+    "publishedAt": "2026-11-17T08:23:05+00:00"
   }
 }
