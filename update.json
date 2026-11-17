@@ -1,12 +1,12 @@
 {
   "latest": {
-    "versionCode": 704,
-    "versionName": "0.7.4",
+    "versionCode": 705,
+    "versionName": "0.7.5",
     "minSdk": 26,
-    "apkUrl": "https://github.com/barista9409/calendar-releases/releases/download/v0.7.4/calendar-0.7.4.apk",
-    "sha256": "0338d9be95a956bf186781a29a45ed468ae6555330f13b0daeb7f79f7aaf6a98",
-    "releaseNotes": "・おすすめのテーマ 8 種類（スタンダード・北欧ミント・さくら・カフェラテ・ラベンダー・ミッドナイト・フォレスト・ガラス）から選んで、細かく調整できるように\n・メニュー（左から出るメニュー）の背景色を独立して設定できるように\n・今の色の組み合わせを「マイテーマ」として保存\n・「このアプリを共有」を追加（ダウンロード先と簡単な説明をコピー・LINE やメールで送る）",
+    "apkUrl": "https://github.com/barista9409/calendar-releases/releases/download/v0.7.5/calendar-0.7.5.apk",
+    "sha256": "5b87e5822d7d7f67260cc4b734a4a8b1e02cd29d9bf0fd6e600cd6805175c27b",
+    "releaseNotes": "・「このアプリを共有」のダウンロード先を APK の直リンクに（常に最新版が直接ダウンロードされる）\n・月ウィジェット：月の初日に「1 12月」のような目印、祝日を赤く表示、見出しをタップすると今月に戻る\n・初めて開いたときに、予定の通知をどちらで受け取るかを確認\n・ Android 標準のバックアップで、色・ウィジェット・通知などの設定を機種変更時に引き継ぐように",
     "mandatory": false,
-    "publishedAt": "2026-11-17T05:21:49+00:00"
+    "publishedAt": "2026-11-17T05:36:05+00:00"
   }
 }
