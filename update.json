@@ -1,12 +1,12 @@
 {
   "latest": {
-    "versionCode": 713,
-    "versionName": "0.7.13",
+    "versionCode": 714,
+    "versionName": "0.7.14",
     "minSdk": 26,
-    "apkUrl": "https://github.com/barista9409/calendar-releases/releases/download/v0.7.13/calendar-0.7.13.apk",
-    "sha256": "b068a2fdffd80b3185c94f6858cf3b58e88ccb18d40ecdd8b31a77b579fc184e",
-    "releaseNotes": "月ウィジェットを軽く：\n・表示する範囲を「前後 1 年」から「今月から 3 か月（今月・来月・再来月）」に縮め、読み込みを軽くしました\n・見出しの「本日：…」をタップすると今月の先頭へ戻ります（今日に戻るボタン）。戻るときの動きも 1 回で済むようにしました",
+    "apkUrl": "https://github.com/barista9409/calendar-releases/releases/download/v0.7.14/calendar-0.7.14.apk",
+    "sha256": "a83d71451cb423804be36169f23398b0b9f5ecc990f4ff0303af62987c5315e0",
+    "releaseNotes": "同期の修正と使い勝手の改善：\n・同期の依頼が Android 13 以降で無視されていた問題を修正（「今すぐ同期」が確実に届きます）\n・アプリから同期の設定が見えないアカウントは［見られるようにする］でアカウントを選ぶと、状態の確認と設定ができます\n・同期中は上のバーに細い線、終わると「同期が完了しました（時刻）」と表示\n・予定の詳細で、作成者にカレンダーの ID が出る不具合を修正\n・添付の画像・PDF は全体を表示。設定→添付ファイルでプレビューをオフにもできます\n・設定・カレンダーと Google 連携・アップデートの画面をメニューと同じ配色に\n・ウィジェットの見た目はウィジェットの長押し→設定だけに\n・ウィジェットや通知から開いたら、メニューを閉じて予定を表示\n・今日ボタンを中央、検索を右上に",
     "mandatory": false,
-    "publishedAt": "2026-11-17T10:14:38+00:00"
+    "publishedAt": "2026-11-17T10:53:57+00:00"
   }
 }
