@@ -1,12 +1,12 @@
 {
   "latest": {
-    "versionCode": 707,
-    "versionName": "0.7.7",
+    "versionCode": 708,
+    "versionName": "0.7.8",
     "minSdk": 26,
-    "apkUrl": "https://github.com/barista9409/calendar-releases/releases/download/v0.7.7/calendar-0.7.7.apk",
-    "sha256": "e62a46c79c896386b6e40e8b66e104f6427479b93f069855d80f60528e40a879",
-    "releaseNotes": "・予定の入力画面からファイルを添付できるように（複数選べる。［保存］を押すと Google ドライブにアップロードして添付）",
+    "apkUrl": "https://github.com/barista9409/calendar-releases/releases/download/v0.7.8/calendar-0.7.8.apk",
+    "sha256": "04c77f723df76b2661de05f3620bedd827f5286e90fe3f4f15026901cf145efb",
+    "releaseNotes": "・月ウィジェット：見出しを今日の日付にして、表示とずれないように。［‹］［›］での月の移動を確実に\n・「カレンダーと Google 連携」に同期の状態を表示（自動同期がオフなら知らせる）\n・スマホに同期していないカレンダーを表示し、その場で同期できるように（Google カレンダーにあるのに出ない予定の対策）\n・同期がオフのときはメニューにも警告を表示",
     "mandatory": false,
-    "publishedAt": "2026-11-17T06:15:43+00:00"
+    "publishedAt": "2026-11-17T06:43:52+00:00"
   }
 }
