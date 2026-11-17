@@ -1,12 +1,12 @@
 {
   "latest": {
-    "versionCode": 711,
-    "versionName": "0.7.11",
+    "versionCode": 712,
+    "versionName": "0.7.12",
     "minSdk": 26,
-    "apkUrl": "https://github.com/barista9409/calendar-releases/releases/download/v0.7.11/calendar-0.7.11.apk",
-    "sha256": "4a1be3bd5f33ec9df34c96ccb11008098c5c0514656b4ec72cf7e412193575e2",
-    "releaseNotes": "・実際は同期オンなのに「カレンダー同期がオフ」と赤く警告される問題を修正（アカウントごとの同期は断定せず案内だけにし、赤い警告はスマホ全体の自動同期がオフのときだけ）",
+    "apkUrl": "https://github.com/barista9409/calendar-releases/releases/download/v0.7.12/calendar-0.7.12.apk",
+    "sha256": "4044641856897988b09f816c60520763a0222cf251296dcb36e2415468ffe990",
+    "releaseNotes": "同期を確実に：\n・カレンダー管理に「最後の同期」の時刻、まだ Google に送っていない変更の件数、［詳しく］で同期の設定の生の値を表示\n・［今すぐ同期］：自動同期がオフでも 1 回は必ず同期します\n・自動同期がオフのときは［自動同期をオンにする］でアプリの中から直せます（スマホの設定画面に行かなくてよい）\n・予定を追加・変更・削除したら、すぐ Google へ送るよう頼みます\n・アプリを開いたとき、メニューの「今すぐ同期」、月ウィジェットの見出しタップでも同期します\n・実際は同期オンなのに警告が出る機種では、警告を出さないようにしました",
     "mandatory": false,
-    "publishedAt": "2026-11-17T09:21:53+00:00"
+    "publishedAt": "2026-11-17T10:03:50+00:00"
   }
 }
