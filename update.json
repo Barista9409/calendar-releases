@@ -1,12 +1,12 @@
 {
   "latest": {
-    "versionCode": 712,
-    "versionName": "0.7.12",
+    "versionCode": 713,
+    "versionName": "0.7.13",
     "minSdk": 26,
-    "apkUrl": "https://github.com/barista9409/calendar-releases/releases/download/v0.7.12/calendar-0.7.12.apk",
-    "sha256": "4044641856897988b09f816c60520763a0222cf251296dcb36e2415468ffe990",
-    "releaseNotes": "同期を確実に：\n・カレンダー管理に「最後の同期」の時刻、まだ Google に送っていない変更の件数、［詳しく］で同期の設定の生の値を表示\n・［今すぐ同期］：自動同期がオフでも 1 回は必ず同期します\n・自動同期がオフのときは［自動同期をオンにする］でアプリの中から直せます（スマホの設定画面に行かなくてよい）\n・予定を追加・変更・削除したら、すぐ Google へ送るよう頼みます\n・アプリを開いたとき、メニューの「今すぐ同期」、月ウィジェットの見出しタップでも同期します\n・実際は同期オンなのに警告が出る機種では、警告を出さないようにしました",
+    "apkUrl": "https://github.com/barista9409/calendar-releases/releases/download/v0.7.13/calendar-0.7.13.apk",
+    "sha256": "b068a2fdffd80b3185c94f6858cf3b58e88ccb18d40ecdd8b31a77b579fc184e",
+    "releaseNotes": "月ウィジェットを軽く：\n・表示する範囲を「前後 1 年」から「今月から 3 か月（今月・来月・再来月）」に縮め、読み込みを軽くしました\n・見出しの「本日：…」をタップすると今月の先頭へ戻ります（今日に戻るボタン）。戻るときの動きも 1 回で済むようにしました",
     "mandatory": false,
-    "publishedAt": "2026-11-17T10:03:50+00:00"
+    "publishedAt": "2026-11-17T10:14:38+00:00"
   }
 }
