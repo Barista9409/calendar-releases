@@ -1,12 +1,12 @@
 {
   "latest": {
-    "versionCode": 702,
-    "versionName": "0.7.2",
+    "versionCode": 703,
+    "versionName": "0.7.3",
     "minSdk": 26,
-    "apkUrl": "https://github.com/barista9409/calendar-releases/releases/download/v0.7.2/calendar-0.7.2.apk",
-    "sha256": "3fd537dc9312201e1b31c430cf3d7f31efdb64ba63376ad9acc7011ec163cbc6",
-    "releaseNotes": "・通知のバイブが鳴らないことがある問題を修正（アプリからアラーム扱いで直接鳴らすように）\n・バイブの長さを選べるように（短い・普通・長い）\n・「止めるまで鳴らし続ける」を追加（通知を消す・開く・［止める］で止まる。最长5分）\n・「バイブのみ」「アラーム」はサイレントのときもバイブで知らせるように",
+    "apkUrl": "https://github.com/barista9409/calendar-releases/releases/download/v0.7.3/calendar-0.7.3.apk",
+    "sha256": "107db400251e26eefb597874f9761c3bb954c15dec182355d57f79cc2f971d1b",
+    "releaseNotes": "・通知の［止める］を押してもバイブが止まらない問題を修正\n・バイブや音が鳴る通知には、いつも先頭に［止める］を付けるように\n・「止めるまで鳴らし続ける」は最長 5 分で自動的に止まります",
     "mandatory": false,
-    "publishedAt": "2026-11-17T03:57:19+00:00"
+    "publishedAt": "2026-11-17T04:24:06+00:00"
   }
 }
