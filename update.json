@@ -1,12 +1,12 @@
 {
   "latest": {
-    "versionCode": 718,
-    "versionName": "0.7.18",
+    "versionCode": 719,
+    "versionName": "0.7.19",
     "minSdk": 26,
-    "apkUrl": "https://github.com/barista9409/calendar-releases/releases/download/v0.7.18/calendar-0.7.18.apk",
-    "sha256": "2efbea18328649a70c9a430b75766f824ec7ac1d6ad7633576617758c5080298",
-    "releaseNotes": "不具合の修正：\n・「カレンダーと同期」を開くとアプリが落ちる不具合を直しました\n\nウィジェット：\n・月ウィジェット：見出しをタップすると、更新中は左にくるくるが出ます（前の版ではすぐ消えて見えませんでした）\n・日ウィジェット：見出しをタップすると、アプリを開かずに更新し、左にくるくるが出ます",
+    "apkUrl": "https://github.com/barista9409/calendar-releases/releases/download/v0.7.19/calendar-0.7.19.apk",
+    "sha256": "d9a758df75333372e2fafcf36a37758126d539dd63fd25f19ade0c4639316e23",
+    "releaseNotes": "ウィジェットの同期中の表示を直しました：\n・月・日ウィジェットとも、見出しをタップすると、同期が終わるまで左にくるくるが出て、見出しが「同期しています…」になります\n・同期が終わると、新しい予定で描き直して、見出しが日付に戻ります",
     "mandatory": false,
-    "publishedAt": "2026-11-18T10:45:42+00:00"
+    "publishedAt": "2026-11-18T11:08:40+00:00"
   }
 }
