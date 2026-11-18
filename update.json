@@ -1,12 +1,12 @@
 {
   "latest": {
-    "versionCode": 719,
-    "versionName": "0.7.19",
+    "versionCode": 720,
+    "versionName": "0.7.20",
     "minSdk": 26,
-    "apkUrl": "https://github.com/barista9409/calendar-releases/releases/download/v0.7.19/calendar-0.7.19.apk",
-    "sha256": "d9a758df75333372e2fafcf36a37758126d539dd63fd25f19ade0c4639316e23",
-    "releaseNotes": "ウィジェットの同期中の表示を直しました：\n・月・日ウィジェットとも、見出しをタップすると、同期が終わるまで左にくるくるが出て、見出しが「同期しています…」になります\n・同期が終わると、新しい予定で描き直して、見出しが日付に戻ります",
+    "apkUrl": "https://github.com/barista9409/calendar-releases/releases/download/v0.7.20/calendar-0.7.20.apk",
+    "sha256": "2bcfdd52ed9c8137461f4041cb67dbbbadb9bd5e825e56494fc057f91c4ef120",
+    "releaseNotes": "同期の表示：\n・「最後の同期」が記録されない問題を直しました（Google から変更が届いたときも記録します。アプリを閉じていても記録されます）\n・最後の同期の日時を、［今すぐ同期］ボタンの右に表示します\n・同期中のくるくるは、動きがなければ 20 秒ほどで終わります",
     "mandatory": false,
-    "publishedAt": "2026-11-18T11:08:40+00:00"
+    "publishedAt": "2026-11-18T11:36:14+00:00"
   }
 }
