@@ -1,12 +1,12 @@
 {
   "latest": {
-    "versionCode": 720,
-    "versionName": "0.7.20",
+    "versionCode": 721,
+    "versionName": "0.7.21",
     "minSdk": 26,
-    "apkUrl": "https://github.com/barista9409/calendar-releases/releases/download/v0.7.20/calendar-0.7.20.apk",
-    "sha256": "2bcfdd52ed9c8137461f4041cb67dbbbadb9bd5e825e56494fc057f91c4ef120",
-    "releaseNotes": "同期の表示：\n・「最後の同期」が記録されない問題を直しました（Google から変更が届いたときも記録します。アプリを閉じていても記録されます）\n・最後の同期の日時を、［今すぐ同期］ボタンの右に表示します\n・同期中のくるくるは、動きがなければ 20 秒ほどで終わります",
+    "apkUrl": "https://github.com/barista9409/calendar-releases/releases/download/v0.7.21/calendar-0.7.21.apk",
+    "sha256": "f4e5a142526f7245d58fe69314a98f8d19b41432bff2f5e767ea87b137678992",
+    "releaseNotes": "同期の表示：\n・［今すぐ同期］が終わったら、終わった時刻が「最後の同期」になります（押す前の時刻のままにならないように）\n・メニューの「今すぐ同期」も、同期中はくるくると「同期しています…」になり、メニューを開き直しても終わるまで出ます",
     "mandatory": false,
-    "publishedAt": "2026-11-18T11:36:14+00:00"
+    "publishedAt": "2026-11-18T11:58:16+00:00"
   }
 }
