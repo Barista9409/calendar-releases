@@ -1,12 +1,12 @@
 {
   "latest": {
-    "versionCode": 721,
-    "versionName": "0.7.21",
+    "versionCode": 722,
+    "versionName": "0.7.22",
     "minSdk": 26,
-    "apkUrl": "https://github.com/barista9409/calendar-releases/releases/download/v0.7.21/calendar-0.7.21.apk",
-    "sha256": "f4e5a142526f7245d58fe69314a98f8d19b41432bff2f5e767ea87b137678992",
-    "releaseNotes": "同期の表示：\n・［今すぐ同期］が終わったら、終わった時刻が「最後の同期」になります（押す前の時刻のままにならないように）\n・メニューの「今すぐ同期」も、同期中はくるくると「同期しています…」になり、メニューを開き直しても終わるまで出ます",
+    "apkUrl": "https://github.com/barista9409/calendar-releases/releases/download/v0.7.22/calendar-0.7.22.apk",
+    "sha256": "dd914a977058546d54ef8422cac72ff28bb207a4f3f0e095336cc0fec8718e2f",
+    "releaseNotes": "画面の構成を整理しました：\n・メニューは、表示するカレンダーのチェックと「同期」「設定」だけに。アカウント名を押すと、そのアカウントのカレンダーをまとめてオン・オフできます\n・「同期」を押すと今すぐ同期。同期中の表示はここ 1 か所だけです\n・アカウントの追加・Google 連携・カレンダーの追加は、設定→「アカウントとカレンダー」にまとめました\n・同期の状態と困ったときは、設定→「同期」\n・アップデートと共有は、設定→「このアプリについて」へ。新しい版があるときはメニューに「アップデートがあります」と出ます",
     "mandatory": false,
-    "publishedAt": "2026-11-18T11:58:16+00:00"
+    "publishedAt": "2026-11-18T12:12:14+00:00"
   }
 }
