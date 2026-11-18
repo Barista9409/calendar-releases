@@ -1,12 +1,12 @@
 {
   "latest": {
-    "versionCode": 716,
-    "versionName": "0.7.16",
+    "versionCode": 717,
+    "versionName": "0.7.17",
     "minSdk": 26,
-    "apkUrl": "https://github.com/barista9409/calendar-releases/releases/download/v0.7.16/calendar-0.7.16.apk",
-    "sha256": "0815b786291423b52423a1a65fd1201c983beb0ca7266cc6c4f441f2baa24195",
-    "releaseNotes": "ウィジェット：\n・Google カレンダー側の変更が同期で届いたときも、ウィジェットが自動で更新されるようにしました（アプリを開かなくても更新されます）\n・月ウィジェットの見出し（本日：…）をタップすると、更新中は左にくるくるが出ます",
+    "apkUrl": "https://github.com/barista9409/calendar-releases/releases/download/v0.7.17/calendar-0.7.17.apk",
+    "sha256": "c7dd0cedfc10ed1da00382bf4b04cea26fb1c21341dc0e9b55bad2c788996a63",
+    "releaseNotes": "同期の表示を作り直しました：\n・実際に同期できているのに「同期が止まっています」と出る不具合を修正（スマホが返す設定の値ではなく、実際に同期できたかで判断します）\n・一番上の表示は「同期できています」「同期しています」「送信待ち」「送れていない変更があります」「自動同期がオフです」のどれかだけ\n・「最後の同期」は、アプリを閉じていた間の同期も記録します\n・「↑」の印は、このアプリで変えてまだ Google に届いていない予定だけに付きます",
     "mandatory": false,
-    "publishedAt": "2026-11-18T10:00:57+00:00"
+    "publishedAt": "2026-11-18T10:26:47+00:00"
   }
 }
