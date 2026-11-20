@@ -1,12 +1,12 @@
 {
   "latest": {
-    "versionCode": 722,
-    "versionName": "0.7.22",
+    "versionCode": 723,
+    "versionName": "0.7.23",
     "minSdk": 26,
-    "apkUrl": "https://github.com/barista9409/calendar-releases/releases/download/v0.7.22/calendar-0.7.22.apk",
-    "sha256": "dd914a977058546d54ef8422cac72ff28bb207a4f3f0e095336cc0fec8718e2f",
-    "releaseNotes": "画面の構成を整理しました：\n・メニューは、表示するカレンダーのチェックと「同期」「設定」だけに。アカウント名を押すと、そのアカウントのカレンダーをまとめてオン・オフできます\n・「同期」を押すと今すぐ同期。同期中の表示はここ 1 か所だけです\n・アカウントの追加・Google 連携・カレンダーの追加は、設定→「アカウントとカレンダー」にまとめました\n・同期の状態と困ったときは、設定→「同期」\n・アップデートと共有は、設定→「このアプリについて」へ。新しい版があるときはメニューに「アップデートがあります」と出ます",
+    "apkUrl": "https://github.com/barista9409/calendar-releases/releases/download/v0.7.23/calendar-0.7.23.apk",
+    "sha256": "4da24a928b68fd422ca3cf088403dd7f545a01c9cf421c982d9eba30c7ae8aed",
+    "releaseNotes": "・予定を作る・変えるときのカレンダーの選択肢に、メニューで非表示にしたカレンダーを出さないようにしました（いまの予定が入っているカレンダーは残します）",
     "mandatory": false,
-    "publishedAt": "2026-11-18T12:12:14+00:00"
+    "publishedAt": "2026-11-20T13:51:18+00:00"
   }
 }
